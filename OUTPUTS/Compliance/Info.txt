@@ -2,4 +2,4 @@ SKU: 333130
 Full product name: Slider potentiometer breakout
 Country of origin: Croatia
 HS tariff code: 85332900   
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388665501
